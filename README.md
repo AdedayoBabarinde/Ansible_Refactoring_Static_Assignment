@@ -1,7 +1,6 @@
 # Ansible_Refactoring_Static_Assignment
-Deployment and configuration of UAT Web Servers using Ansible imports and roles
 
-
+##Deployment and configuration of UAT Web Servers using Ansible imports and roles
 
 In this project we will continue working with "ansible-config-mgt" repository and some improvements will be made
 to the code.We will refactor our existing Ansible code,create assignments, then deploy and configure UAT Web Servers using Ansible imports and roles. 
